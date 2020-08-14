@@ -20,7 +20,7 @@ Hey, here are some of my open-source projects that I’m currently working on.
 
 <br>
 
-[🔐 Hashio - user-friendly library for hashing passwords in .NET Core, written in C#](https://github.com/iuryferreira/hashio")
+[🔐 Hashio - user-friendly library for hashing passwords in .NET Core, written in C#](https://github.com/iuryferreira/hashio)
 
 [📚 Python Data Structures - repository contains the implementations of the most used data structures, written in Python](https://github.com/iuryferreira/python-data-structures)
 
