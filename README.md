@@ -10,6 +10,7 @@
 
 </div>
 
+<br>
 
 ### ✌ Hello!
 
@@ -17,10 +18,15 @@ You have finally discovered my Github profile. <br>
 
 Please feel free to clone projects and raise issues if you think something could be better.
 
+<br>
 
 ### 📦 Main Open-Source Projects
 
 Hey, here are some of my open-source projects that I’m currently working on.
+
+<br>
+
+<div align="center">
 
 <table>
     <tbody>
@@ -30,7 +36,8 @@ Hey, here are some of my open-source projects that I’m currently working on.
                     <div class="container" style="padding: 2px 16px;">
                         <a style="text-decoration: none;" href="https://github.com/iuryferreira/hashio">
                             <h4><b>Hashio</b></h4>
-                            <p>🔐 user-friendly library for hashing passwords in .NET Core, written in C#</p>
+                        </a>
+                        <p>🔐 user-friendly library for hashing passwords in .NET Core, written in C#</p>
                         </a>
                     </div>
                 </div>
@@ -44,10 +51,10 @@ Hey, here are some of my open-source projects that I’m currently working on.
                         <div class="container" style="padding: 2px 16px;">
                             <a style="text-decoration: none;" href="https://github.com/iuryferreira/hashio">
                                 <h4><b>Python Data Structures</b></h4>
-                                <p>📚 repository contains the implementations of the most used data structures, written
-                                    in
-                                    Python.</p>
                             </a>
+                            <p>📚 repository contains the implementations of the most used data structures, written
+                                in
+                                Python.</p>
                         </div>
                     </div>
                 </a>
@@ -59,9 +66,9 @@ Hey, here are some of my open-source projects that I’m currently working on.
                     <div class="container" style="padding: 2px 16px;">
                         <a style="text-decoration: none;" href="https://github.com/iuryferreira/ttime">
                             <h4><b>ThemeTime</b></h4>
-                            <p>🔆 utility to change theme variations (light/dark) in the budgie/gnome environment based
-                                on the chosen time.</p>
                         </a>
+                        <p>🔆 utility to change theme variations (light/dark) in the budgie/gnome environment based
+                            on the chosen time.</p>
                     </div>
                 </div>
             </td>
@@ -72,8 +79,8 @@ Hey, here are some of my open-source projects that I’m currently working on.
                     <div class="container" style="padding: 2px 16px;">
                         <a style="text-decoration: none;" href="https://github.com/iuryferreira/dart-solus-os">
                             <h4><b>Dart SDK - Solus OS</b></h4>
-                            <p>⚙ a simple way the dart sdk on your solus os.</p>
                         </a>
+                        <p>⚙ a simple way the dart sdk on your solus os.</p>
                     </div>
                 </div>
             </td>
@@ -84,8 +91,8 @@ Hey, here are some of my open-source projects that I’m currently working on.
                     <div class="container" style="padding: 2px 16px;">
                         <a style="text-decoration: none;" href="https://github.com/iuryferreira/sortk-desktop">
                             <h4><b>SortK</b></h4>
-                            <p>🖥 desktop app for gift draw at SCFDS - 2018, written in tkinter (python)</p>
                         </a>
+                        <p>🖥 desktop app for gift draw at SCFDS - 2018, written in tkinter (python)</p>
                     </div>
                 </div>
                 </a>
@@ -94,13 +101,23 @@ Hey, here are some of my open-source projects that I’m currently working on.
     </tbody>
 </table>
 
+<br>
+
+</div>
+
 ### Hey! 📢
+
+<br>
 
 <div align="center">
 
   <img alt="Iury Ferreira" title="IuryFerreira" src="https://github.com/iuryferreira/iuryferreira/blob/master/.github/images/giphy.gif"/>
 </div>
 
-<br>
+<br><br><br>
+
+<div align="center">
 
 ***Thanks for the visit and any partnership, or just to chat, send me an email. Thank you!*** 😄
+
+</div>
