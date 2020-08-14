@@ -14,11 +14,12 @@
 
 ### ✌ Hello!
 
+<br>
+
 You have finally discovered my Github profile. <br>
 
 Please feel free to clone projects and raise issues if you think something could be better.
 
-<br>
 
 ### 📦 Main Open-Source Projects
 
@@ -35,7 +36,7 @@ Hey, here are some of my open-source projects that I’m currently working on.
                 <div class="card" style="box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);">
                     <div class="container" style="padding: 2px 16px;">
                         <a style="text-decoration: none;" href="https://github.com/iuryferreira/hashio">
-                            <h4><b>Hashio</b></h4>
+                            [**Hashio**](https://github.com/iuryferreira/hashio)
                         </a>
                         <p>🔐 user-friendly library for hashing passwords in .NET Core, written in C#</p>
                         </a>
