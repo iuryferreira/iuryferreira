@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Iury Ferreira" title="IuryFerreira" src=".github/images/home.png" width="1000" />
+  <img alt="Iury Ferreira" title="IuryFerreira" src="https://github.com/iuryferreira/iuryferreira/.github/images/home.png" width="1000" />
 </p>
 
 <div align="center">
@@ -92,7 +92,7 @@ Hey, here are some of my open-source projects that I’m currently working on.
 
 <div align="center">
 
-  <img alt="Iury Ferreira" title="IuryFerreira" src=".github/images/giphy.gif"/>
+  <img alt="Iury Ferreira" title="IuryFerreira" src="https://github.com/iuryferreira/iuryferreira/.github/images/giphy.gif"/>
 </div>
 
 ***Thanks for the visit and any partnership, or just to chat, send me an email. Thank you!*** 😄
