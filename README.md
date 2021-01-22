@@ -22,7 +22,7 @@ Hey, here are some of my open-source projects that I’m currently working on.
 
 [🔐 Hashio - user-friendly library for hashing passwords in .NET Core, written in C#](https://github.com/iuryferreira/hashio)
 
-[⚙ Todart - manage your tasks easily and intuitively in the best app, written in Dart](https://github.com/iuryferreira/todart)
+[📝 Todart - manage your tasks easily and intuitively in the best app, written in Dart](https://github.com/iuryferreira/todart)
 
 [📚 Python Data Structures - repository contains the implementations of the most used data structures, written in Python](https://github.com/iuryferreira/python-data-structures)
 
