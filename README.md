@@ -20,6 +20,8 @@ Hey, here are some of my open-source projects that I’m currently working on.
 
 <br>
 
+[🔔 Notie - user-friendly library for notifications in .NET, written in C#](https://github.com/iuryferreira/notie)
+
 [🔐 Hashio - user-friendly library for hashing passwords in .NET Core, written in C#](https://github.com/iuryferreira/hashio)
 
 [📝 Todart - manage your tasks easily and intuitively in the best app, written in Dart](https://github.com/iuryferreira/todart)
