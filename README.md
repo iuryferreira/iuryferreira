@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Iury Ferreira" title="IuryFerreira" src="https://github.com/iuryferreira/iuryferreira/blob/master/.github/images/home.png" width="1000" />
+  <img alt="Iury Ferreira" title="IuryFerreira" src="https://github.com/iuryferreira/iuryferreira/blob/master/.github/images/logo.svg" width="1000" />
 </p>
 <div align="center">
 <a href="https://www.linkedin.com/in/iury-ferreira-68ba35130/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
