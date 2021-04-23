@@ -1,5 +1,5 @@
 <p align="center">
- align="left" <img alt="Iury Ferreira" alt="IuryFerreira" src="https://github.com/iuryferreira/iuryferreira/blob/master/.github/images/logo.svg" width="1000" />
+<img alt="Iury Ferreira" alt="IuryFerreira" src=".github/images/logo.svg" width="1000" />
 </p>
 <div align="center">
 <a href="https://www.linkedin.com/in/iury-ferreira-68ba35130/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -8,11 +8,11 @@
 </div>
 <br>
 
-### ✌ Ei!
+### ✌ Tudo bem?
 
 Parece que você encontrou meu perfil no Github. <br>
 
-Prazer! Meu nome é Iury e sou apaixonado por desenvolvimento de software. Comecei a programar em 2012 e até hoje não parei, continuo me aperfeiçoando para me tornar um programador melhor e entregar boas soluções. Desenvolvimento back-end e é a minha paixão, mas tenho uma boa experiência em programação frontend/mobile.
+Prazer! Meu nome é **Iury Ferreira** e sou apaixonado por desenvolvimento de software. Comecei a programar em 2012 e até hoje não parei, continuo me aperfeiçoando para me tornar um programador melhor e entregar boas soluções. Desenvolvimento back-end e é a minha paixão, mas tenho uma boa experiência em programação frontend/mobile.
 
 Aqui você encontrará boa parte dos projetos que me divirto fazendo e que contribuem com a comunidade. Sinta-se livre para fazer *pull requests* e abrir *issues* quando quiser, será uma honra poder conversar com você!
 
@@ -76,10 +76,8 @@ Já que você está por aqui, confira alguns dos projetos em que tenho trabalhad
 
 ### Hey! 📢
 
-<br>
-
 <div align="center">
-  <img alt="Iury Ferreira" alt="IuryFerreira" src="https://github.com/iuryferreira/iuryferreira/blob/master/.github/images/giphy.gif"/>
+  <img alt="Iury Ferreira" alt="IuryFerreira" src=".github/images/giphy.gif"/>
 </div>
 
 <br><br><br>
