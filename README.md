@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Iury Ferreira" alt="IuryFerreira" src="https://github.com/iuryferreira/iuryferreira/blob/master/.github/images/logo.svg" width="1000" />
+ align="left" <img alt="Iury Ferreira" alt="IuryFerreira" src="https://github.com/iuryferreira/iuryferreira/blob/master/.github/images/logo.svg" width="1000" />
 </p>
 <div align="center">
 <a href="https://www.linkedin.com/in/iury-ferreira-68ba35130/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -21,29 +21,29 @@ Aqui você encontrará boa parte dos projetos que me divirto fazendo e que contr
 Aqui estão as tecnologias, linguagens e *frameworks* que utilizo diariamente em meus projetos.
 
 
-<img width="40"  src=".github/images/techs/csharp.svg" style="margin: 5px" alt="C#">
-<img width="40"  style="margin: 5px" src=".github/images/techs/python.png" alt="Python">
-<img width="60"  style="margin: 5px" src=".github/images/techs/nodejs.svg" alt="NodeJS">
-<img width="40"  style="margin: 5px" src=".github/images/techs/typescript.jpeg" alt="TypeScript">
-<img width="40"  style="margin: 5px" src=".github/images/techs/js.png" alt="JavaScript">
-<img width="40"  style="margin: 5px" src=".github/images/techs/flutter.png" alt="Flutter">
-<img width="40"  style="margin: 5px" src=".github/images/techs/dart.png" alt="Dart">
-<img width="40"  style="margin: 5px" src=".github/images/techs/vue.svg" alt="Vue.js">
-<img width="40"  style="margin: 5px" src=".github/images/techs/dotnet.png" alt=".NET">
-<img width="40"  style="margin: 5px" src=".github/images/techs/html.svg" alt="HTML">
-<img width="40"  style="margin: 5px" src=".github/images/techs/css.svg" alt="CSS">
-<img width="25"  style="margin: 5px" src=".github/images/techs/bulma.png" alt="Bulma">
-<img width="40"  style="margin: 5px" src=".github/images/techs/bootstrap.png" alt="Bootstrap">
-<img width="40"  style="margin: 5px" src=".github/images/techs/wordpress.png" alt="WordPress">
-<img width="45"  style="margin: 5px" src=".github/images/techs/docker.svg" alt="Docker">
-<img width="50"  style="margin: 5px" src=".github/images/techs/azure.svg" alt="Azure">
-<img width="40"  style="margin: 5px" src=".github/images/techs/heroku.png" alt="Heroku">
-<img width="30"  style="margin: 5px" src=".github/images/techs/firebase.png" alt="Firebase">
-<img width="40"  style="margin: 5px" src=".github/images/techs/postgres.png" alt="Postgres">
-<img width="40"  style="margin: 5px" src=".github/images/techs/sqlserver.png" alt="Postgres">
-<img width="45"  style="margin: 5px" src=".github/images/techs/mongo.png" alt="MongoDB">
-<img width="45"  style="margin: 5px" src=".github/images/techs/mysql.png" alt="MongoDB">
-<img width="45" style="margin: 5px" src=".github/images/techs/sqlite.png" alt="MongoDB">
+<img width="40" align="left" src=".github/images/techs/csharp.svg" style="margin: 5px" alt="C#">
+<img width="40" align="left" style="margin: 5px" src=".github/images/techs/python.png" alt="Python">
+<img width="60" align="left" style="margin: 5px" src=".github/images/techs/nodejs.svg" alt="NodeJS">
+<img width="40" align="left" style="margin: 5px" src=".github/images/techs/typescript.jpeg" alt="TypeScript">
+<img width="40" align="left" style="margin: 5px" src=".github/images/techs/js.png" alt="JavaScript">
+<img width="40" align="left" style="margin: 5px" src=".github/images/techs/flutter.png" alt="Flutter">
+<img width="40" align="left" style="margin: 5px" src=".github/images/techs/dart.png" alt="Dart">
+<img width="40" align="left" style="margin: 5px" src=".github/images/techs/vue.svg" alt="Vue.js">
+<img width="40" align="left" style="margin: 5px" src=".github/images/techs/dotnet.png" alt=".NET">
+<img width="40" align="left" style="margin: 5px" src=".github/images/techs/html.svg" alt="HTML">
+<img width="40" align="left" style="margin: 5px" src=".github/images/techs/css.svg" alt="CSS">
+<img width="25" align="left" style="margin: 5px" src=".github/images/techs/bulma.png" alt="Bulma">
+<img width="40" align="left" style="margin: 5px" src=".github/images/techs/bootstrap.png" alt="Bootstrap">
+<img width="40" align="left" style="margin: 5px" src=".github/images/techs/wordpress.png" alt="WordPress">
+<img width="45" align="left" style="margin: 5px" src=".github/images/techs/docker.svg" alt="Docker">
+<img width="50" align="left" style="margin: 5px" src=".github/images/techs/azure.svg" alt="Azure">
+<img width="40" align="left" style="margin: 5px" src=".github/images/techs/heroku.png" alt="Heroku">
+<img width="30" align="left" style="margin: 5px" src=".github/images/techs/firebase.png" alt="Firebase">
+<img width="40" align="left" style="margin: 5px" src=".github/images/techs/postgres.png" alt="Postgres">
+<img width="40" align="left" style="margin: 5px" src=".github/images/techs/sqlserver.png" alt="Postgres">
+<img width="45" align="left" style="margin: 5px" src=".github/images/techs/mongo.png" alt="MongoDB">
+<img width="45" align="left" style="margin: 5px" src=".github/images/techs/mysql.png" alt="MongoDB">
+<img width="45" align="left" style="margin: 5px" src=".github/images/techs/sqlite.png" alt="MongoDB">
 <img width="40" style="margin: 5px" src=".github/images/techs/linux.png" alt="Linux">
 
 <br>
@@ -76,13 +76,13 @@ Já que você está por aqui, confira alguns dos projetos em que tenho trabalhad
 
 <div align="center">
 
-  <img alt="Iury Ferreira" alt="IuryFerreira" src="https://github.com/iuryferreira/iuryferreira/blob/master/.github/images/giphy.gif"/>
+ align="left" <img alt="Iury Ferreira" alt="IuryFerreira" src="https://github.com/iuryferreira/iuryferreira/blob/master/.github/images/giphy.gif"/>
 </div>
 
 <br><br><br>
 
 <div align="center">
 
-***Obrigado pela sua visita, envie-me um email para qualquer dúvida ou até mesmo para bater um papo, será muito massa!*** 😄
+***Obrigado pela sua visita, envie-me um email para qualquer dúvida ou até mesmo para bater um papo, estou ansioso por isso!*** 😄
 
 </div>
