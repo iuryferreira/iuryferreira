@@ -12,13 +12,13 @@
 
 Parece que você encontrou meu perfil no Github. <br>
 
-Prazer! Meu nome é **Iury Ferreira** e sou apaixonado por desenvolvimento de software. Comecei a programar em 2012 e até hoje continuo me aperfeiçoando para me tornar um programador melhor e entregar boas soluções. Desenvolvimento back-end e é a minha paixão, mas tenho uma boa experiência em programação frontend/mobile.
+Prazer! Meu nome é **Iury Ferreira** e sou apaixonado por desenvolvimento de software. Comecei a programar em 2012 e continuo me aperfeiçoando para me tornar um programador melhor e entregar boas soluções. Desenvolvimento back-end é a minha paixão, mas tenho uma boa experiência em programação frontend/mobile.
 
 Aqui você encontrará boa parte dos projetos que me divirto fazendo e que contribuem com a comunidade. Sinta-se livre para fazer *pull requests* e abrir *issues* quando quiser, será uma honra poder conversar com você!
 
 ### 💻 Tecnologias
 
-Aqui estão as tecnologias, linguagens e *frameworks* que utilizo diariamente em meus projetos.
+Atualmente eu utilizo estas tecnologias, linguagens e *frameworks* diariamente em meus projetos.
 
 
 <div id="first-line" style="margin-bottom:10px">
@@ -54,7 +54,7 @@ Aqui estão as tecnologias, linguagens e *frameworks* que utilizo diariamente em
 
 ### 📦 Meus projetos
 
-Já que você está por aqui, confira alguns dos projetos em que tenho trabalhado atualmente.
+Nesse tempo além de projetos profissionais, construi alguns de código-aberto. Aqui estão alguns dos projetos em que tenho trabalhado atualmente.
 
 [⛪ Idigis - Sistema web para gerenciamento de igrejas, escrito inteiramente em C#](https://github.com/iuryferreira/idigis)
 
