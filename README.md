@@ -79,8 +79,7 @@ Já que você está por aqui, confira alguns dos projetos em que tenho trabalhad
 <br>
 
 <div align="center">
-
- align="left" <img alt="Iury Ferreira" alt="IuryFerreira" src="https://github.com/iuryferreira/iuryferreira/blob/master/.github/images/giphy.gif"/>
+  <img alt="Iury Ferreira" alt="IuryFerreira" src="https://github.com/iuryferreira/iuryferreira/blob/master/.github/images/giphy.gif"/>
 </div>
 
 <br><br><br>
