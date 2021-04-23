@@ -1,11 +1,22 @@
 <p align="center">
 <img alt="Iury Ferreira" alt="IuryFerreira" src=".github/images/logo.svg" width="1000" />
 </p>
-<div align="center">
-<a href="https://www.linkedin.com/in/iury-ferreira-68ba35130/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/iuryferreira__" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<p align="center">
+  <a href="https://github.com/rafaela-queiroz">
+    <img src="https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/iuryferreira">
+  </a>
 
-</div>
+  <a href="https://www.linkedin.com/in/iury-ferreira-68ba35130/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iury-ferreira-68ba35130/">
+  </a>
+  <a href="https://www.instagram.com/iuryferreira__/">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&labelColor=E4405F&logo=instagram&logoColor=white&link=https://www.instagram.com/iuryferreira__/">
+  </a>
+
+  <a href="mailto:iury.franklinferreira@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-f4f4f4?style=for-the-badge&labelColor=f4f4f4&logo=gmail&logoColor=D14836&link=mailto:iury.franklinferreira@gmail.com/">
+  </a>
+</p>
 <br>
 
 ### ✌ Tudo bem?
