@@ -12,7 +12,7 @@
 
 Parece que você encontrou meu perfil no Github. <br>
 
-Prazer! Meu nome é **Iury Ferreira** e sou apaixonado por desenvolvimento de software. Comecei a programar em 2012 e até hoje não parei, continuo me aperfeiçoando para me tornar um programador melhor e entregar boas soluções. Desenvolvimento back-end e é a minha paixão, mas tenho uma boa experiência em programação frontend/mobile.
+Prazer! Meu nome é **Iury Ferreira** e sou apaixonado por desenvolvimento de software. Comecei a programar em 2012 e até hoje continuo me aperfeiçoando para me tornar um programador melhor e entregar boas soluções. Desenvolvimento back-end e é a minha paixão, mas tenho uma boa experiência em programação frontend/mobile.
 
 Aqui você encontrará boa parte dos projetos que me divirto fazendo e que contribuem com a comunidade. Sinta-se livre para fazer *pull requests* e abrir *issues* quando quiser, será uma honra poder conversar com você!
 
