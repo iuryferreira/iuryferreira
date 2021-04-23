@@ -9,8 +9,8 @@
   <a href="https://www.linkedin.com/in/iury-ferreira-68ba35130/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iury-ferreira-68ba35130/">
   </a>
-  <a href="https://www.instagram.com/iuryferreira__/">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&labelColor=E4405F&logo=instagram&logoColor=white&link=https://www.instagram.com/iuryferreira__/">
+  <a href="https://www.instagram.com/iuryfferreira/">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&labelColor=E4405F&logo=instagram&logoColor=white&link=https://www.instagram.com/iuryfferreira_/">
   </a>
 
   <a href="mailto:iury.franklinferreira@gmail.com">
