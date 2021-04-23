@@ -56,21 +56,21 @@ Aqui estão as tecnologias, linguagens e *frameworks* que utilizo diariamente em
 
 Já que você está por aqui, confira alguns dos projetos em que tenho trabalhado atualmente.
 
-[⛪ Idigis - Web system for church management, written entirely in C#](https://github.com/iuryferreira/idigis)
+[⛪ Idigis - Sistema web para gerenciamento de igrejas, escrito inteiramente em C#](https://github.com/iuryferreira/idigis)
 
-[🔔 Notie - user-friendly library for notifications in .NET, written in C#](https://github.com/iuryferreira/notie)
+[🔔 Notie - Biblioteca de notificações em .NET, escrita em C#](https://github.com/iuryferreira/notie)
 
-[🔐 Hashio - user-friendly library for hashing passwords in .NET Core, written in C#](https://github.com/iuryferreira/hashio)
+[🔐 Hashio -  Biblioteca para criptografia de dados em .NET, escrita in C#](https://github.com/iuryferreira/hashio)
 
-[📝 Todart - manage your tasks easily and intuitively in the best app, written in Dart](https://github.com/iuryferreira/todart)
+[📝 Todart - API e aplicativo para gerência de tarefas, escrito em Dart/Flutter](https://github.com/iuryferreira/todart)
 
-[📚 Python Data Structures - repository contains the implementations of the most used data structures, written in Python](https://github.com/iuryferreira/python-data-structures)
+[📚 Python Data Structures - Implementação das estrutura de dados mais utilizadas, escritas em Python](https://github.com/iuryferreira/python-data-structures)
 
-[🔆 ThemeTime - utility to change theme variations (light/dark) in the budgie/gnome environment based on the chosen time](https://github.com/iuryferreira/ttime)
+[🔆 ThemeTime - utilitário para mudança de temas automática (claro/escuro) nos ambientes Budgie/Gnome](https://github.com/iuryferreira/ttime)
 
-[⚙ Dart SDK for Solus OS - a simple way the dart sdk on your solus os](https://github.com/iuryferreira/dart-solus-os)
+[🔨 Dart SDK for Solus OS - Instalador do Dart no Solus OS](https://github.com/iuryferreira/dart-solus-os)
 
-[🖥 SortK - desktop app for gift draw at SCFDS - 2018, written in tkinter (python)](https://github.com/iuryferreira/sortk-desktop)
+[🎉  SortK - Programa desktop para sorteio de brindes no SCFDS - 2018, escrito em Python/Tkinter](https://github.com/iuryferreira/sortk-desktop)
 
 <br>
 
