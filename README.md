@@ -35,16 +35,16 @@ Aqui estão as tecnologias, linguagens e *frameworks* que utilizo diariamente em
 <img width="25" align="left" style="margin: 8px" src=".github/images/techs/bulma.png" alt="Bulma">
 <img width="40" align="left" style="margin: 8px" src=".github/images/techs/bootstrap.png" alt="Bootstrap">
 <img width="40" align="left" style="margin: 8px" src=".github/images/techs/wordpress.png" alt="WordPress">
-<img width="45" align="left" style="margin: 8px" src=".github/images/techs/docker.svg" alt="Docker">
-<img width="50" align="left" style="margin: 8px" src=".github/images/techs/azure.svg" alt="Azure">
-<img width="40" align="left" style="margin: 8px" src=".github/images/techs/heroku.png" alt="Heroku">
-<img width="30" align="left" style="margin: 8px" src=".github/images/techs/firebase.png" alt="Firebase">
-<img width="40" align="left" style="margin: 8px" src=".github/images/techs/postgres.png" alt="Postgres">
-<img width="40" align="left" style="margin: 8px" src=".github/images/techs/sqlserver.png" alt="Postgres">
-<img width="45" align="left" style="margin: 8px" src=".github/images/techs/mongo.png" alt="MongoDB">
-<img width="45" align="left" style="margin: 8px" src=".github/images/techs/mysql.png" alt="MongoDB">
-<img width="45" align="left" style="margin: 8px" src=".github/images/techs/sqlite.png" alt="MongoDB">
-<img width="40" style="margin: 8px" src=".github/images/techs/linux.png" alt="Linux">
+<img width="45" align="left" style="margin: 8px;margin-top: 10px;" src=".github/images/techs/docker.svg" alt="Docker">
+<img width="50" align="left" style="margin: 8px;margin-top: 10px;" src=".github/images/techs/azure.svg" alt="Azure">
+<img width="40" align="left" style="margin: 8px;margin-top: 10px;" src=".github/images/techs/heroku.png" alt="Heroku">
+<img width="30" align="left" style="margin: 8px;margin-top: 10px;" src=".github/images/techs/firebase.png" alt="Firebase">
+<img width="40" align="left" style="margin: 8px;margin-top: 10px;" src=".github/images/techs/postgres.png" alt="Postgres">
+<img width="40" align="left" style="margin: 8px;margin-top: 10px;" src=".github/images/techs/sqlserver.png" alt="Postgres">
+<img width="45" align="left" style="margin: 8px;margin-top: 10px;" src=".github/images/techs/mongo.png" alt="MongoDB">
+<img width="45" align="left" style="margin: 8px;margin-top: 10px;" src=".github/images/techs/mysql.png" alt="MongoDB">
+<img width="45" align="left" style="margin: 8px;margin-top: 10px;" src=".github/images/techs/sqlite.png" alt="MongoDB">
+<img width="40" style="margin: 8px;margin-top: 10px;" src=".github/images/techs/linux.png" alt="Linux">
 
 <br>
 
