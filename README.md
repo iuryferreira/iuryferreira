@@ -2,7 +2,7 @@
 <img alt="Iury Ferreira" alt="IuryFerreira" src=".github/images/logo.svg" width="1000" />
 </p>
 <p align="center">
-  <a href="https://github.com/rafaela-queiroz">
+  <a href="https://github.com/iuryferreira">
     <img src="https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/iuryferreira">
   </a>
 
