@@ -52,7 +52,7 @@ Aqui estão as tecnologias, linguagens e *frameworks* que utilizo diariamente em
 
 <br>
 
-### 📦 Main Open-Source Projects
+### 📦 Meus projetos
 
 Já que você está por aqui, confira alguns dos projetos em que tenho trabalhado atualmente.
 
