@@ -35,7 +35,7 @@ Aqui estão as tecnologias, linguagens e *frameworks* que utilizo diariamente em
 <img width="25" align="left" style="margin: 8px" src=".github/images/techs/bulma.png" alt="Bulma">
 <img width="40" align="left" style="margin: 8px" src=".github/images/techs/bootstrap.png" alt="Bootstrap">
 <img width="40" align="left" style="margin: 8px" src=".github/images/techs/wordpress.png" alt="WordPress">
-<br>
+<hr>
 <img width="45" align="left" style="margin: 8px" src=".github/images/techs/docker.svg" alt="Docker">
 <img width="50" align="left" style="margin: 8px" src=".github/images/techs/azure.svg" alt="Azure">
 <img width="40" align="left" style="margin: 8px" src=".github/images/techs/heroku.png" alt="Heroku">
