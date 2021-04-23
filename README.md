@@ -21,30 +21,30 @@ Aqui você encontrará boa parte dos projetos que me divirto fazendo e que contr
 Aqui estão as tecnologias, linguagens e *frameworks* que utilizo diariamente em meus projetos.
 
 
-<img width="40" align="left" src=".github/images/techs/csharp.svg" style="margin: 5px" alt="C#">
-<img width="40" align="left" style="margin: 5px" src=".github/images/techs/python.png" alt="Python">
-<img width="60" align="left" style="margin: 5px" src=".github/images/techs/nodejs.svg" alt="NodeJS">
-<img width="40" align="left" style="margin: 5px" src=".github/images/techs/typescript.jpeg" alt="TypeScript">
-<img width="40" align="left" style="margin: 5px" src=".github/images/techs/js.png" alt="JavaScript">
-<img width="40" align="left" style="margin: 5px" src=".github/images/techs/flutter.png" alt="Flutter">
-<img width="40" align="left" style="margin: 5px" src=".github/images/techs/dart.png" alt="Dart">
-<img width="40" align="left" style="margin: 5px" src=".github/images/techs/vue.svg" alt="Vue.js">
-<img width="40" align="left" style="margin: 5px" src=".github/images/techs/dotnet.png" alt=".NET">
-<img width="40" align="left" style="margin: 5px" src=".github/images/techs/html.svg" alt="HTML">
-<img width="40" align="left" style="margin: 5px" src=".github/images/techs/css.svg" alt="CSS">
-<img width="25" align="left" style="margin: 5px" src=".github/images/techs/bulma.png" alt="Bulma">
-<img width="40" align="left" style="margin: 5px" src=".github/images/techs/bootstrap.png" alt="Bootstrap">
-<img width="40" align="left" style="margin: 5px" src=".github/images/techs/wordpress.png" alt="WordPress">
-<img width="45" align="left" style="margin: 5px" src=".github/images/techs/docker.svg" alt="Docker">
-<img width="50" align="left" style="margin: 5px" src=".github/images/techs/azure.svg" alt="Azure">
-<img width="40" align="left" style="margin: 5px" src=".github/images/techs/heroku.png" alt="Heroku">
-<img width="30" align="left" style="margin: 5px" src=".github/images/techs/firebase.png" alt="Firebase">
-<img width="40" align="left" style="margin: 5px" src=".github/images/techs/postgres.png" alt="Postgres">
-<img width="40" align="left" style="margin: 5px" src=".github/images/techs/sqlserver.png" alt="Postgres">
-<img width="45" align="left" style="margin: 5px" src=".github/images/techs/mongo.png" alt="MongoDB">
-<img width="45" align="left" style="margin: 5px" src=".github/images/techs/mysql.png" alt="MongoDB">
-<img width="45" align="left" style="margin: 5px" src=".github/images/techs/sqlite.png" alt="MongoDB">
-<img width="40" style="margin: 5px" src=".github/images/techs/linux.png" alt="Linux">
+<img width="40" align="left" style="margin: 8px" src=".github/images/techs/csharp.svg" alt="C#">
+<img width="40" align="left" style="margin: 8px" src=".github/images/techs/python.png" alt="Python">
+<img width="60" align="left" style="margin: 8px" src=".github/images/techs/nodejs.svg" alt="NodeJS">
+<img width="40" align="left" style="margin: 8px" src=".github/images/techs/typescript.jpeg" alt="TypeScript">
+<img width="40" align="left" style="margin: 8px" src=".github/images/techs/js.png" alt="JavaScript">
+<img width="40" align="left" style="margin: 8px" src=".github/images/techs/flutter.png" alt="Flutter">
+<img width="40" align="left" style="margin: 8px" src=".github/images/techs/dart.png" alt="Dart">
+<img width="40" align="left" style="margin: 8px" src=".github/images/techs/vue.svg" alt="Vue.js">
+<img width="40" align="left" style="margin: 8px" src=".github/images/techs/dotnet.png" alt=".NET">
+<img width="40" align="left" style="margin: 8px" src=".github/images/techs/html.svg" alt="HTML">
+<img width="40" align="left" style="margin: 8px" src=".github/images/techs/css.svg" alt="CSS">
+<img width="25" align="left" style="margin: 8px" src=".github/images/techs/bulma.png" alt="Bulma">
+<img width="40" align="left" style="margin: 8px" src=".github/images/techs/bootstrap.png" alt="Bootstrap">
+<img width="40" align="left" style="margin: 8px" src=".github/images/techs/wordpress.png" alt="WordPress">
+<img width="45" align="left" style="margin: 8px" src=".github/images/techs/docker.svg" alt="Docker">
+<img width="50" align="left" style="margin: 8px" src=".github/images/techs/azure.svg" alt="Azure">
+<img width="40" align="left" style="margin: 8px" src=".github/images/techs/heroku.png" alt="Heroku">
+<img width="30" align="left" style="margin: 8px" src=".github/images/techs/firebase.png" alt="Firebase">
+<img width="40" align="left" style="margin: 8px" src=".github/images/techs/postgres.png" alt="Postgres">
+<img width="40" align="left" style="margin: 8px" src=".github/images/techs/sqlserver.png" alt="Postgres">
+<img width="45" align="left" style="margin: 8px" src=".github/images/techs/mongo.png" alt="MongoDB">
+<img width="45" align="left" style="margin: 8px" src=".github/images/techs/mysql.png" alt="MongoDB">
+<img width="45" align="left" style="margin: 8px" src=".github/images/techs/sqlite.png" alt="MongoDB">
+<img width="40" style="margin: 8px" src=".github/images/techs/linux.png" alt="Linux">
 
 <br>
 
