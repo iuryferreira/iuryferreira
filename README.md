@@ -59,8 +59,6 @@ Atualmente eu utilizo estas tecnologias, linguagens e *frameworks* diariamente e
 <img width="40" style="margin: 8px" src=".github/images/techs/linux.png" alt="Linux">
 </p>
 
-<br>
-
 ### 📦 Meus projetos
 
 Nesse tempo além de projetos profissionais, construi alguns de código-aberto. Aqui estão alguns dos projetos em que tenho trabalhado atualmente.
