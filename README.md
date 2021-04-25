@@ -32,7 +32,7 @@ Aqui você encontrará boa parte dos projetos que me divirto fazendo e que contr
 Atualmente eu utilizo estas tecnologias, linguagens e *frameworks* diariamente em meus projetos.
 
 
-<div id="first-line" style="margin-bottom:10px">
+<p float="left">
 <img width="40" align="left" style="margin: 8px" src=".github/images/techs/csharp.svg" alt="C#">
 <img width="40" align="left" style="margin: 8px" src=".github/images/techs/python.png" alt="Python">
 <img width="60" align="left" style="margin: 8px" src=".github/images/techs/nodejs.svg" alt="NodeJS">
@@ -47,8 +47,6 @@ Atualmente eu utilizo estas tecnologias, linguagens e *frameworks* diariamente e
 <img width="25" align="left" style="margin: 8px" src=".github/images/techs/bulma.png" alt="Bulma">
 <img width="40" align="left" style="margin: 8px" src=".github/images/techs/bootstrap.png" alt="Bootstrap">
 <img width="40" align="left" style="margin: 8px" src=".github/images/techs/wordpress.png" alt="WordPress">
-</div>
-<div id="second-line" style="">
 <img width="45" align="left" style="margin: 8px" src=".github/images/techs/docker.svg" alt="Docker">
 <img width="50" align="left" style="margin: 8px" src=".github/images/techs/azure.svg" alt="Azure">
 <img width="40" align="left" style="margin: 8px" src=".github/images/techs/heroku.png" alt="Heroku">
@@ -59,7 +57,7 @@ Atualmente eu utilizo estas tecnologias, linguagens e *frameworks* diariamente e
 <img width="45" align="left" style="margin: 8px" src=".github/images/techs/mysql.png" alt="MongoDB">
 <img width="45" align="left" style="margin: 8px" src=".github/images/techs/sqlite.png" alt="MongoDB">
 <img width="40" style="margin: 8px" src=".github/images/techs/linux.png" alt="Linux">
-</div>
+</p>
 
 <br>
 
