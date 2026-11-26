@@ -56,7 +56,7 @@ Além da minha experiência profissional, desenvolvo produtos independentes, bib
 ### [Idigis](https://idigis.com.br)
 Plataforma de gestão eclesiástica que reúne membros, congregações, finanças, documentos, agenda e comunicação. Desenvolvida com ASP.NET Core, Blazor WebAssembly, Entity Framework Core e Azure.
 
-### Semea
+### [Semea](https://semeapp.com.br)
 Plataforma de impacto social que conecta doadores a iniciativas sociais por meio de doações pontuais e recorrentes via Pix, gamificação e comunicação em tempo real. Desenvolvida com .NET, Blazor WebAssembly, SignalR, OpenTelemetry e Azure.
 
 ### Bibliotecas de código aberto
