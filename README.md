@@ -1,96 +1,74 @@
 <p align="center">
-<img alt="Iury Ferreira" alt="IuryFerreira" src=".github/images/logo.svg" width="1000" />
+  <img alt="Iury Ferreira" src=".github/images/logo.svg" width="1000" />
 </p>
+
+<h3 align="center">Software Engineer | .NET &amp; Azure</h3>
+<p align="center">Software Architecture · Backend Engineering · Product Development</p>
+
 <p align="center">
-  <a href="https://github.com/iuryferreira">
-    <img src="https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/iuryferreira">
-  </a>
-
-  <a href="https://www.linkedin.com/in/iury-ferreira-68ba35130/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iury-ferreira-68ba35130/">
-  </a>
-  <a href="https://www.instagram.com/iuryfferreira/">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&labelColor=E4405F&logo=instagram&logoColor=white&link=https://www.instagram.com/iuryfferreira_/">
-  </a>
-
-  <a href="mailto:iury.franklinferreira@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-f4f4f4?style=for-the-badge&labelColor=f4f4f4&logo=gmail&logoColor=D14836&link=mailto:iury.franklinferreira@gmail.com/">
-  </a>
-</p>
-<br>
-
-### ✌ Tudo bem?
-
-Parece que você encontrou meu perfil no Github. <br>
-
-Prazer! Meu nome é **Iury** e sou apaixonado por desenvolvimento de software. Comecei a estudar programação em 2012 e continuo me aperfeiçoando para me tornar um programador melhor e entregar boas soluções. Em 2017, iniciei minha carreira como estagiário no IFRN, e em 2021 me lancei no mercado de desenvolvimento. Back-end é a minha paixão, mas tenho experiência em programação frontend/mobile.
-
-Aqui você encontrará boa parte dos projetos que me divirto fazendo e que contribuem com a comunidade. Sinta-se livre para fazer *pull requests* e abrir *issues* quando quiser, será uma honra poder conversar com você!
-
-### 💻 Tecnologias
-
-Atualmente eu utilizo estas tecnologias, linguagens e *frameworks* diariamente em meus projetos.
-
-
-<p float="left">
-<img width="40" style="margin: 8px" src=".github/images/techs/csharp.svg" alt="C#">
-<img width="40" style="margin: 8px" src=".github/images/techs/python.png" alt="Python">
-<img width="60" style="margin: 8px" src=".github/images/techs/nodejs.svg" alt="NodeJS">
-<img width="40" style="margin: 8px" src=".github/images/techs/typescript.jpeg" alt="TypeScript">
-<img width="40" style="margin: 8px" src=".github/images/techs/js.png" alt="JavaScript">
-<img width="40" style="margin: 8px" src=".github/images/techs/flutter.png" alt="Flutter">
-<img width="40" style="margin: 8px" src=".github/images/techs/dart.png" alt="Dart">
-<img width="40" style="margin: 8px" src=".github/images/techs/vue.svg" alt="Vue.js">
-<img width="40" style="margin: 8px" src=".github/images/techs/dotnet.png" alt=".NET">
-<img width="40" style="margin: 8px" src=".github/images/techs/html.svg" alt="HTML">
-<img width="40" style="margin: 8px" src=".github/images/techs/css.svg" alt="CSS">
-<img width="25" style="margin: 8px" src=".github/images/techs/bulma.png" alt="Bulma">
-<img width="40" style="margin: 8px" src=".github/images/techs/bootstrap.png" alt="Bootstrap">
-<img width="40" style="margin: 8px" src=".github/images/techs/wordpress.png" alt="WordPress">
-<img width="45" style="margin: 8px" src=".github/images/techs/docker.svg" alt="Docker">
-<img width="50" style="margin: 8px" src=".github/images/techs/azure.svg" alt="Azure">
-<img width="40" style="margin: 8px" src=".github/images/techs/heroku.png" alt="Heroku">
-<img width="30" style="margin: 8px" src=".github/images/techs/firebase.png" alt="Firebase">
-<img width="40" style="margin: 8px" src=".github/images/techs/postgres.png" alt="Postgres">
-<img width="40" style="margin: 8px" src=".github/images/techs/sqlserver.png" alt="Postgres">
-<img width="45" style="margin: 8px" src=".github/images/techs/mongo.png" alt="MongoDB">
-<img width="45" style="margin: 8px" src=".github/images/techs/mysql.png" alt="MongoDB">
-<img width="45" style="margin: 8px" src=".github/images/techs/sqlite.png" alt="MongoDB">
-<img width="40" style="margin: 8px" src=".github/images/techs/linux.png" alt="Linux">
+  <a href="https://www.linkedin.com/in/iury-ferreira-68ba35130/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:iury.franklinferreira@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
 </p>
 
-### 📦 Meus projetos
+## About me
 
-Nesse tempo além de projetos profissionais, construi alguns de código-aberto. Aqui estão alguns dos projetos em que tenho trabalhado atualmente.
+I'm a Software Engineer specializing in .NET, Azure and software architecture, focused on solving complex business problems through technology.
 
-[⛪ Idigis - Sistema web para gerenciamento de igrejas, escrito inteiramente em C#](https://github.com/iuryferreira/idigis)
+My professional experience spans international projects, banking, financial services, payment processing, debt collection, investments and e-commerce. I've contributed to the development and modernization of mission-critical systems, addressing complex business rules, system integrations, performance challenges and architectural improvements.
 
-[🔔 Notie - Biblioteca de notificações em .NET, escrita em C#](https://github.com/iuryferreira/notie)
+I believe software engineering goes beyond writing code. It involves understanding business needs, making sound technical decisions and delivering reliable, maintainable solutions that generate meaningful results.
 
-[🔐 Hashio -  Biblioteca para criptografia de dados em .NET, escrita in C#](https://github.com/iuryferreira/hashio)
+Beyond my professional experience, I develop independent products, open-source libraries and developer tools that turn ideas into practical solutions.
 
-[📝 Todart - API e aplicativo para gerência de tarefas, escrito em Dart/Flutter](https://github.com/iuryferreira/todart)
+## Engineering expertise
 
-[📚 Python Data Structures - Implementação das estrutura de dados mais utilizadas, escritas em Python](https://github.com/iuryferreira/python-data-structures)
+| Area | Focus |
+| --- | --- |
+| Backend Engineering | APIs, business logic and complex system integrations |
+| Software Architecture | Maintainability, scalability and distributed systems |
+| Cloud & DevOps | Cloud infrastructure, automation and observability |
+| Financial Systems | Banking, payments, investments and debt collection |
+| System Modernization | Legacy migration, reliability and performance |
+| Product Development | Independent products and reusable software solutions |
 
-[🔆 ThemeTime - utilitário para mudança de temas automática (claro/escuro) nos ambientes Budgie/Gnome](https://github.com/iuryferreira/ttime)
+## Technology stack
 
-[🔨 Dart SDK for Solus OS - Instalador do Dart no Solus OS](https://github.com/iuryferreira/dart-solus-os)
+<p>
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&amp;logo=dotnet&amp;logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&amp;logo=dotnet&amp;logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&amp;logo=dotnet&amp;logoColor=white" alt="ASP.NET Core" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&amp;logo=microsoftazure&amp;logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/SQL_Server-A91D22?style=flat-square" alt="SQL Server" />
+</p>
 
-[🎉  SortK - Programa desktop para sorteio de brindes no SCFDS - 2018, escrito em Python/Tkinter](https://github.com/iuryferreira/sortk-desktop)
+| Area | Technologies & practices |
+| --- | --- |
+| Backend | C#, .NET, ASP.NET Core, Entity Framework Core, NHibernate |
+| Architecture & Integration | DDD, Clean Architecture, Microservices, REST, gRPC, GraphQL, SOAP, Kafka |
+| Data & Persistence | SQL Server, PostgreSQL, MySQL, Redis, MongoDB |
+| Infrastructure & DevOps | Azure, Docker, Terraform, Bicep, Azure DevOps, Git, Linux, CI/CD |
+| Observability | Application Insights, OpenTelemetry, structured logging, distributed tracing |
+| Frontend & Additional Technologies | Blazor, Angular, Vue.js, TypeScript, Python, Node.js |
 
-<br>
+## Selected projects
 
-### Hey! 📢
+### [Idigis](https://idigis.com.br)
+Church management platform bringing together membership, congregations, finances, documents, scheduling and communication. Built with ASP.NET Core, Blazor WebAssembly, Entity Framework Core and Azure.
 
-<div align="center">
-  <img alt="Iury Ferreira" alt="IuryFerreira" src=".github/images/giphy.gif"/>
-</div>
+### Semea
+Social impact platform connecting donors with social initiatives through one-time and recurring PIX donations, gamification and real-time communication. Built with .NET, Blazor WebAssembly, SignalR, OpenTelemetry and Azure.
 
-<br><br><br>
+### Open-source libraries
 
-<div align="center">
+- **[Notie](https://github.com/iuryferreira/notie):** Notification library for the .NET ecosystem.
+- **[Hashio](https://github.com/iuryferreira/hashio):** .NET library for data cryptography.
 
-***Obrigado pela sua visita, envie-me um email para qualquer dúvida ou até mesmo para bater um papo, estou ansioso por isso!*** 😄
+## Beyond the code
 
-</div>
+Software developer by vocation, musician by love and theologian by devotion.
+
+<p align="center">
+  <strong>Let's connect.</strong><br />
+  <a href="https://www.linkedin.com/in/iury-ferreira-68ba35130/">LinkedIn</a> · <a href="mailto:iury.franklinferreira@gmail.com">Email</a>
+</p>
