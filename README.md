@@ -1,7 +1,3 @@
-<p align="center">
-  <img alt="Iury Ferreira" src=".github/images/logo.svg" width="1000" />
-</p>
-
 <h3 align="center">Engenheiro de Software | .NET &amp; Azure</h3>
 <p align="center">Arquitetura de Software · Desenvolvimento Backend · Desenvolvimento de Produtos</p>
 
