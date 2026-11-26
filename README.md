@@ -2,36 +2,36 @@
   <img alt="Iury Ferreira" src=".github/images/logo.svg" width="1000" />
 </p>
 
-<h3 align="center">Software Engineer | .NET &amp; Azure</h3>
-<p align="center">Software Architecture · Backend Engineering · Product Development</p>
+<h3 align="center">Engenheiro de Software | .NET &amp; Azure</h3>
+<p align="center">Arquitetura de Software · Desenvolvimento Backend · Desenvolvimento de Produtos</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/iury-ferreira-68ba35130/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:iury.franklinferreira@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
 </p>
 
-## About me
+## Sobre mim
 
-I'm a Software Engineer specializing in .NET, Azure and software architecture, focused on solving complex business problems through technology.
+Sou engenheiro de software especializado em .NET, Azure e arquitetura de software, com foco na resolução de problemas complexos de negócio por meio da tecnologia.
 
-My professional experience spans international projects, banking, financial services, payment processing, debt collection, investments and e-commerce. I've contributed to the development and modernization of mission-critical systems, addressing complex business rules, system integrations, performance challenges and architectural improvements.
+Minha experiência profissional abrange projetos internacionais, sistemas bancários, serviços financeiros, meios de pagamento, recuperação de crédito, investimentos e e-commerce. Ao longo da minha trajetória, contribuí para o desenvolvimento e na modernização de sistemas críticos, lidando com regras de negócio complexas, integrações, desafios de desempenho e melhorias arquiteturais.
 
-I believe software engineering goes beyond writing code. It involves understanding business needs, making sound technical decisions and delivering reliable, maintainable solutions that generate meaningful results.
+Acredito que a engenharia de software vai além de escrever código. Envolve compreender as necessidades do negócio, tomar decisões técnicas fundamentadas e entregar soluções confiáveis, de fácil manutenção e que gerem resultados relevantes.
 
-Beyond my professional experience, I develop independent products, open-source libraries and developer tools that turn ideas into practical solutions.
+Além da minha experiência profissional, desenvolvo produtos independentes, bibliotecas de código aberto e ferramentas para desenvolvedores, transformando ideias em soluções práticas.
 
-## Engineering expertise
+## Áreas de atuação
 
-| Area | Focus |
+| Área | Foco |
 | --- | --- |
-| Backend Engineering | APIs, business logic and complex system integrations |
-| Software Architecture | Maintainability, scalability and distributed systems |
-| Cloud & DevOps | Cloud infrastructure, automation and observability |
-| Financial Systems | Banking, payments, investments and debt collection |
-| System Modernization | Legacy migration, reliability and performance |
-| Product Development | Independent products and reusable software solutions |
+| Desenvolvimento Backend | APIs, regras de negócio e integrações complexas |
+| Arquitetura de Software | Manutenibilidade, escalabilidade e sistemas distribuídos |
+| Cloud e DevOps | Infraestrutura em nuvem, automação e observabilidade |
+| Sistemas Financeiros | Bancos, pagamentos, investimentos e recuperação de crédito |
+| Modernização de Sistemas | Migração de legados, confiabilidade e desempenho |
+| Desenvolvimento de Produtos | Produtos independentes e soluções reutilizáveis |
 
-## Technology stack
+## Tecnologias
 
 <p>
   <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&amp;logo=dotnet&amp;logoColor=white" alt="C#" />
@@ -42,33 +42,33 @@ Beyond my professional experience, I develop independent products, open-source l
   <img src="https://img.shields.io/badge/SQL_Server-A91D22?style=flat-square" alt="SQL Server" />
 </p>
 
-| Area | Technologies & practices |
+| Área | Tecnologias e práticas |
 | --- | --- |
 | Backend | C#, .NET, ASP.NET Core, Entity Framework Core, NHibernate |
-| Architecture & Integration | DDD, Clean Architecture, Microservices, REST, gRPC, GraphQL, SOAP, Kafka |
-| Data & Persistence | SQL Server, PostgreSQL, MySQL, Redis, MongoDB |
-| Infrastructure & DevOps | Azure, Docker, Terraform, Bicep, Azure DevOps, Git, Linux, CI/CD |
-| Observability | Application Insights, OpenTelemetry, structured logging, distributed tracing |
-| Frontend & Additional Technologies | Blazor, Angular, Vue.js, TypeScript, Python, Node.js |
+| Arquitetura e Integração | DDD, Clean Architecture, Microservices, REST, gRPC, GraphQL, SOAP, Kafka |
+| Dados e Persistência | SQL Server, PostgreSQL, MySQL, Redis, MongoDB |
+| Infraestrutura e DevOps | Azure, Docker, Terraform, Bicep, Azure DevOps, Git, Linux, CI/CD |
+| Observabilidade | Application Insights, OpenTelemetry, logs estruturados, rastreamento distribuído |
+| Frontend e Tecnologias Complementares | Blazor, Angular, Vue.js, TypeScript, Python, Node.js |
 
-## Selected projects
+## Projetos em destaque
 
 ### [Idigis](https://idigis.com.br)
-Church management platform bringing together membership, congregations, finances, documents, scheduling and communication. Built with ASP.NET Core, Blazor WebAssembly, Entity Framework Core and Azure.
+Plataforma de gestão eclesiástica que reúne membros, congregações, finanças, documentos, agenda e comunicação. Desenvolvida com ASP.NET Core, Blazor WebAssembly, Entity Framework Core e Azure.
 
 ### Semea
-Social impact platform connecting donors with social initiatives through one-time and recurring PIX donations, gamification and real-time communication. Built with .NET, Blazor WebAssembly, SignalR, OpenTelemetry and Azure.
+Plataforma de impacto social que conecta doadores a iniciativas sociais por meio de doações pontuais e recorrentes via Pix, gamificação e comunicação em tempo real. Desenvolvida com .NET, Blazor WebAssembly, SignalR, OpenTelemetry e Azure.
 
-### Open-source libraries
+### Bibliotecas de código aberto
 
-- **[Notie](https://github.com/iuryferreira/notie):** Notification library for the .NET ecosystem.
-- **[Hashio](https://github.com/iuryferreira/hashio):** .NET library for data cryptography.
+- **[Notie](https://github.com/iuryferreira/notie):** Biblioteca de notificações para o ecossistema .NET.
+- **[Hashio](https://github.com/iuryferreira/hashio):** Biblioteca .NET para criptografia de dados.
 
-## Beyond the code
+## Além do código
 
-Software developer by vocation, musician by love and theologian by devotion.
+Desenvolvedor por vocação, músico por amor e teólogo por devoção.
 
 <p align="center">
-  <strong>Let's connect.</strong><br />
+  <strong>Vamos conversar.</strong><br />
   <a href="https://www.linkedin.com/in/iury-ferreira-68ba35130/">LinkedIn</a> · <a href="mailto:iury.franklinferreira@gmail.com">Email</a>
 </p>
